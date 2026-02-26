@@ -1,6 +1,7 @@
 # NYSE-Data-Analysis
 
 NYSE S&P 500 Financial Analysis
+
 📌 Project Overview
 
 This project analyzes historical financial data from companies listed on the New York Stock Exchange using a subset of the S&P 500 dataset provided by Kaggle.
